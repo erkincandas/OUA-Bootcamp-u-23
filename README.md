@@ -29,9 +29,9 @@ Realms of the Elements
 
 ## Hedef Kitle
 
--Her yaştan keşfetme duygusuna sahipler 
--Akıcı ve keyifli oyun sevenler 
--Puzzle oyun sevenler
+- Her yaştan keşfetme duygusuna sahipler 
+- Akıcı ve keyifli oyun sevenler 
+- Puzzle oyun sevenler
 
 ## Product Backlog URL
 
