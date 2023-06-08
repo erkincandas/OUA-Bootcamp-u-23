@@ -1,6 +1,6 @@
 # Takım İsmi
 
-takım ismi 
+Mauna Games
 
 # Ürün İle İlgili Bilgiler
 
@@ -14,27 +14,25 @@ takım ismi
 
 ## Ürün İsmi
 
-ürün ismi
+Realms of the Elements
 
 ## Ürün Açıklaması
 
-açıklama
+"Realms of the Elements", benzersiz bir 3D platform bulmaca oyunudur ve PC için tasarlanmıştır. Genç bir kahramanın hayal dünyasına dalın ve Dört Element - Toprak, Hava, Ateş ve Su - üzerine temalı hayal gücü dolu diyarları gezip dolaşın. Her seviye, karmaşık bulmacaları sezgisel platform oyunu ile birleştirerek farklı bir dizi zorluk sunar. İlerlemek için elementlerle etkileşimde bulunun ve onları manipüle edin, büyüleyici çevrelerde kendinizi kaybedin ve bu hayal dünyasının gizli derinliklerini keşfedin. "Realms of the Elements" adlı oyunda, hayal gücünüzü harekete geçirecek ve bulmaca-platform deneyimini zirveye taşıyacak bir yolculuk sizi bekliyor.
 
 ## Ürün Özellikleri
 
-- Özellik 1
-- Özellik 2
-- Özellik 3
+- Farklı diyarları gezip keşfetmek
+- 4 elementin farklı özelliklerini kullanarak karmaşık puzzleları çözmek
+- Hedefe ulaşabilmek için farklı görevleri tamamlamak
 
-açıklama
 
 ## Hedef Kitle
 
--
--
--
--
+-Her yaştan keşfetme duygusuna sahipler 
+-Akıcı ve keyifli oyun sevenler 
+-Puzzle oyun sevenler
 
 ## Product Backlog URL
 
-[Product Backlog URL](https://github.com/erkincandas/OUA-Bootcamp-u-23)
+[Product Backlog URL](https://miro.com/app/board/uXjVMBwAUGw=/)
