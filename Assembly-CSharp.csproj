@@ -9,7 +9,12 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
+<<<<<<< Updated upstream
     <ProjectGuid>{6A931300-5831-E833-3B31-DC5DAFD24E45}</ProjectGuid>
+=======
+    <ProjectGuid>{0013936a-3158-33e8-3b31-dc5dafd24e45}</ProjectGuid>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+>>>>>>> Stashed changes
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -776,6 +781,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
+=======
+     <Folder Include="Assets" />
+     <Folder Include="Assets\Scenes" />
+     <Reference Include="UnityEngine">
+     <HintPath>D:\Unity 2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.CoreModule">
+     <HintPath>D:\Unity 2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor">
+     <HintPath>D:\Unity 2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+     </Reference>
+>>>>>>> Stashed changes
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
