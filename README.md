@@ -36,3 +36,13 @@ Realms of the Elements
 ## Product Backlog URL
 
 [Product Backlog URL](https://miro.com/app/board/uXjVMBwAUGw=/)
+
+-----------------------------------------
+# Sprint 1
+- Tamamlanması hedeflenen puan:50
+- Tahmin Mantığı: takım üyelerimizin finalleri ve bazı meşguliyetlerinden ötürü 1.sprintte hafif gitmeyi planlamıştık.
+- Daily Scrum: Toplantılarımız discordta sesli olarak gerçekleştirildiğinden dolayı kayıtlarımız azdır. word dosyası olarak projectmanagement kısmına eklendi.
+- Sprint board update: (
+- Ürün Durumu: 
+- Sprint Review: Oyun giriş kısmı taslağı hazırlanmış, çevre tasarımı ve karakter tasarımı devam etmektedir.
+- Sprint Retrospective: Takım olarak bundan sonra daha aktif olma kararı alınmıştır.
