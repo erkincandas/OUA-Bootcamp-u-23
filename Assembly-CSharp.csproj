@@ -701,17 +701,68 @@
      <Reference Include="System.Xml.Serialization">
      <HintPath>D:\Unity\Unity 2022.3.0f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.EditorCoroutines.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TerrainTools.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ProBuilder">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Shared.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TerrainTools">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.TerrainTools.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualStudio.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor.UI">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Core">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Core.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ProBuilder.AddOns.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Rider.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Polybrush">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Polybrush.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Timeline">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <Reference Include="Unity.ProBuilder.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     <Reference Include="Unity.Polybrush.Editor">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Polybrush.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
@@ -725,50 +776,23 @@
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEditor.UI">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
      <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>D:\MyProjects\Bootcamp\OUA-Bootcamp-u-23\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
