@@ -44,5 +44,6 @@ Realms of the Elements
 - Daily Scrum: Toplantılarımız discordta sesli olarak gerçekleştirildiğinden dolayı kayıtlarımız azdır. word dosyası olarak projectmanagement kısmına eklendi.
 - Sprint board update: ![screenshot 1](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint1.png)
 - Ürün Durumu: ![screenshot 2](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint11.png) ![screenshot3](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint111.png)
+- Karakter modelleme durumu: ![screenshot 3](https://github.com/erkincandas/OUA-Bootcamp-u-23/assets/56789951/daddbabe-ff39-4a69-a466-59cba21a2c95)
 - Sprint Review: Oyun giriş kısmı taslağı hazırlanmış, çevre tasarımı ve karakter tasarımı devam etmektedir.
 - Sprint Retrospective: Takım olarak bundan sonra daha aktif olma kararı alınmıştır.
