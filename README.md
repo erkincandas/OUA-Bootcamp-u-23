@@ -41,7 +41,7 @@ Realms of the Elements
 # Sprint 1
 - Tamamlanması hedeflenen puan:50
 - Tahmin Mantığı: takım üyelerimizin finalleri ve bazı meşguliyetlerinden ötürü 1.sprintte hafif gitmeyi planlamıştık.
-- Daily Scrum: Toplantılarımız discordta sesli olarak gerçekleştirildiğinden dolayı kayıtlarımız azdır. word dosyası olarak projectmanagement kısmına eklendi.
+- Daily Scrum: Toplantılarımız discordta sesli olarak gerçekleştirildiğinden dolayı kayıtlarımız azdır. word dosyası olarak projectmanagement kısmına eklendi. [dailyscrum](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint1dailyscrums.docx)
 - Sprint board update: ![screenshot 1](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint1.png)
 - Ürün Durumu: ![screenshot 2](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint11.png) ![screenshot3](https://github.com/erkincandas/OUA-Bootcamp-u-23/blob/main/sprint111.png)
 - Karakter modelleme durumu: ![screenshot 3](https://github.com/erkincandas/OUA-Bootcamp-u-23/assets/56789951/daddbabe-ff39-4a69-a466-59cba21a2c95)
