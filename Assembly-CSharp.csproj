@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2022_3_0;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_3_0;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -47,47 +47,145 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\MenuManager.cs" />
      <Folder Include="Assets" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVOUpsample.compute" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\Lens Dirt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Distortion.hlsl" />
      <Folder Include="Assets\TextMesh Pro\Sprites" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ExposureHistogram.hlsl" />
+     <None Include="Assets\SineVFX\TranslucentCrystals\Resources\Shaders\SkyboxProceduralDesaturated.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Texture3DLerp.compute" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DeferredFog.shader" />
      <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\TemporalAntialiasing.shader" />
+     <None Include="Assets\SineVFX\TranslucentCrystals\Readme.txt" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\FastApproximateAntialiasing.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\SubpixelMorphologicalAntialiasing.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Dithering.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Bloom.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Vectorscope.compute" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Textures\CrystalMaps" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Sampling.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\CopyStdFromTexArray.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\Cubes" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Lut3DBaker.compute" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Gizmos" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\PSSL.hlsl" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Textures\Ramps" />
+     <None Include="Assets\SineVFX\TranslucentCrystals\_SRP\!!!_ReadBeforeImport_!!!.txt" />
      <Folder Include="Assets\Stylized Lava Materials\Lava05" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\LightMeter.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Scenes\DemoScene" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <Folder Include="Assets\TextMesh Pro\Resources" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\AutoExposure.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVORender.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Texture2DLerp.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\SubpixelMorphologicalAntialiasingBridge.hlsl" />
      <Folder Include="Assets\Stylized Lava Materials" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DiskKernels.hlsl" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\Blue Noise 256px" />
      <Folder Include="Assets\Scripts" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\D3D11.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVODownsample2.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScalableAO.hlsl" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Meshes\Materials" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <Folder Include="Assets\Stylized Lava Materials\Lava02" />
      <Folder Include="Assets\TextMesh Pro" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Prefabs\Gamma" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Shaders" />
+     <Folder Include="Assets\Stylized Lava Materials\Lava01\Materials" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Materials" />
      <Folder Include="Assets\Stylized Lava Materials\Lava03" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Prefabs" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\Spectral LUTs" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVO.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Vectorscope.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\D3D9.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScalableAO.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\ACES.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\FinalPass.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Histogram.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Histogram.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\Switch.hlsl" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\Metal.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Uber.shader" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\SMAA" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Shaders" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\xRLib.hlsl" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\CopyStdFromDoubleWide.shader" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\_SRP" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\SineVFX\TranslucentCrystals\Resources\Shaders\Crystal.shader" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\LUTs" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Scenes" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Debug\Overlays.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\PSP2.hlsl" />
      <Folder Include="Assets\ProBuilder Data" />
      <Folder Include="Assets\TextMesh Pro\Shaders" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScreenSpaceReflections.shader" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Textures" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DepthOfField.hlsl" />
      <Folder Include="Assets\TextMesh Pro\Resources\Style Sheets" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Scenes\DemoSceneGamma" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DiscardAlpha.shader" />
      <Folder Include="Assets\TextMesh Pro\Fonts" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\OpenGL.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Lut2DBaker.shader" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2" />
      <Folder Include="Assets\Stylized Lava Materials\Lava01" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\CopyStd.shader" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MotionBlur.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\MultiScaleVODownsample1.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Fog.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ExposureHistogram.compute" />
      <Folder Include="Assets\Stylized Lava Materials\Lava04" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Shaders\API" />
+     <Folder Include="Assets\SineVFX" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\GrainBaker.shader" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\EnvironmentMaterials" />
      <Folder Include="Assets\Materials" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\GaussianDownsample.compute" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\ScreenSpaceReflections.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\XboxOne.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\Copy.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\D3D12.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\DepthOfField.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Builtins\SubpixelMorphologicalAntialiasing.hlsl" />
      <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
      <Folder Include="Assets\TextMesh Pro\Documentation" />
+     <Folder Include="Assets\SineVFX\PostProcessingV2\Textures\Blue Noise 64px" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\API\Vulkan.hlsl" />
+     <None Include="Assets\SineVFX\PostProcessingV2\Shaders\Colors.hlsl" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources\Meshes" />
+     <Folder Include="Assets\SineVFX\TranslucentCrystals\Resources" />
      <Reference Include="UnityEngine">
      <HintPath>D:\Unity\Unity 2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -804,6 +902,14 @@
      </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
+      <Project>{87a2dda1-e2e7-7e89-9a9a-7ebef9d2bc54}</Project>
+      <Name>Unity.Postprocessing.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
+      <Project>{29461724-287f-e1fe-42bb-e7a3a3e39102}</Project>
+      <Name>Unity.Postprocessing.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
